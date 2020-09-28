@@ -120,9 +120,9 @@ See the following Azure Sphere Quickstarts to learn how to build and deploy this
 
 You need Azure Sphere SDK version >= 20.04 to build and run the sample.
   
--  [with Visual Studio](https://docs.microsoft.com/azure-sphere/install/qs-real-time-application)
--  [with VS Code on Windows or Linux](https://docs.microsoft.com/azure-sphere/install/qs-real-time-app-vscode)
--  [on the Windows or Linux command line](https://docs.microsoft.com/azure-sphere/install/qs-real-time-app-cli)
+-  [with Visual Studio](https://docs.microsoft.com/azure-sphere/install/qs-real-time-application?tabs=windows&pivots=visual-studio)
+-  [with VS Code on Windows or Linux](https://docs.microsoft.com/azure-sphere/install/qs-real-time-application?tabs=windows&pivots=vs-code)
+-  [on the Windows or Linux command line](https://docs.microsoft.com/azure-sphere/install/qs-real-time-application?tabs=windows&pivots=cli)
 
 ## Observe the output
 
